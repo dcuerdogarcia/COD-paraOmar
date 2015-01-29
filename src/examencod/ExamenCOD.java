@@ -2,7 +2,7 @@
 package examencod;
 
 public class ExamenCOD {
-
+//Borja es un viciao y lo único que hace es jugar.
     /**
      * @param args the command line arguments
      */
